@@ -6,5 +6,6 @@ int main() {
 	printf("seungho's 2nd commit\n");
 
 	printf("Jimin's 1st commit\n");
+	printf("Jimin's 2nd commit\n");
 	return 0;
 }
